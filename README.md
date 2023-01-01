@@ -26,3 +26,10 @@ Get pyrogram string session from [BOT](https://t.me/SessionStringGeneratorZBot) 
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 if deploy button doesn't work, then deploy `manually.`
+
+<a href="https://render.com/deploy?repo=https://github.com/Vignesharavind1996/PrivateContentSaverBot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+
+
